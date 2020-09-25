@@ -1,0 +1,17 @@
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  src: url("Inter.woff2") format("woff2-variations"),
+    url("Inter.woff2") format("woff2"), url("Inter.woff") format("woff");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  src: url("Inter.woff2") format("woff2-variations"),
+    url("Inter-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: bold;
+}
